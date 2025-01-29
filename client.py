@@ -1,5 +1,5 @@
-# client.py
-# Author: [Your Name]
+# client side of the code
+# Submitted by: Rhea Benedicta Dsouza
 
 import socket
 import tkinter as tk
